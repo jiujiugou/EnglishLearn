@@ -1,0 +1,15 @@
+D:\Code\C#\EnglishLearningWebsite\JWT\bin\Debug\net6.0\JWT.deps.json
+D:\Code\C#\EnglishLearningWebsite\JWT\bin\Debug\net6.0\JWT.dll
+D:\Code\C#\EnglishLearningWebsite\JWT\bin\Debug\net6.0\JWT.pdb
+D:\Code\C#\EnglishLearningWebsite\JWT\bin\Debug\net6.0\Commons.dll
+D:\Code\C#\EnglishLearningWebsite\JWT\bin\Debug\net6.0\Commons.pdb
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.csproj.AssemblyReference.cache
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.AssemblyInfoInputs.cache
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.AssemblyInfo.cs
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.csproj.CoreCompileInputs.cache
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.csproj.Up2Date
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.dll
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\refint\JWT.dll
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\JWT.pdb
+D:\Code\C#\EnglishLearningWebsite\JWT\obj\Debug\net6.0\ref\JWT.dll

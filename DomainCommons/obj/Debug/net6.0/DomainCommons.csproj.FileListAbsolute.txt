@@ -1,0 +1,12 @@
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\bin\Debug\net6.0\DomainCommons.deps.json
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\bin\Debug\net6.0\DomainCommons.dll
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\bin\Debug\net6.0\DomainCommons.pdb
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.csproj.AssemblyReference.cache
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.AssemblyInfoInputs.cache
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.AssemblyInfo.cs
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.csproj.CoreCompileInputs.cache
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.dll
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\refint\DomainCommons.dll
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\DomainCommons.pdb
+D:\Code\C#\EnglishLearningWebsite\DomainCommons\obj\Debug\net6.0\ref\DomainCommons.dll

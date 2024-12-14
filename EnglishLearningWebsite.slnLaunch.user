@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "新建配置文件",
+    "Projects": [
+      {
+        "Path": "FileService.WebAPI\\FileService.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IdentityService.WebAPI\\IdentityService.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MediaEncoder.WebAPI\\MediaEncoder.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SearchService.WebAPI\\SearchService.WebAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "新建配置文件 (1)",
+    "Projects": [
+      {
+        "Path": "Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Listening.Admin.WebAPI\\Listening.Admin.WebAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

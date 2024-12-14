@@ -1,0 +1,100 @@
+[
+  {
+    "ContainingType": "IdentityService.WebAPI.Controllers.Login.LoginController",
+    "Method": "ChangeMyPassword",
+    "RelativePath": "Login/ChangeMyPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "IdentityService.WebAPI.Controllers.Login.ChangeMyPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityService.WebAPI.Controllers.Login.LoginController",
+    "Method": "CreateWorld",
+    "RelativePath": "Login/CreateWorld",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityService.WebAPI.Controllers.Login.LoginController",
+    "Method": "GetUserInfo",
+    "RelativePath": "Login/GetUserInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "IdentityService.WebAPI.Controllers.Login.UserResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IdentityService.WebAPI.Controllers.Login.LoginController",
+    "Method": "LoginByPhoneAndPwd",
+    "RelativePath": "Login/LoginByPhoneAndPwd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "IdentityService.WebAPI.Controllers.Login.LoginByPhoneAndPwdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IdentityService.WebAPI.Controllers.Login.LoginController",
+    "Method": "LoginByUserNameAndPwd",
+    "RelativePath": "Login/LoginByUserNameAndPwd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "IdentityService.WebAPI.Controllers.Login.LoginByUserNameAndPwdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

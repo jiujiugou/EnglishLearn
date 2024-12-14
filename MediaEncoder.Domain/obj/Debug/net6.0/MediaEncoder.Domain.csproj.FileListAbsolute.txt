@@ -1,0 +1,17 @@
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.csproj.AssemblyReference.cache
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.AssemblyInfoInputs.cache
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.AssemblyInfo.cs
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.csproj.CoreCompileInputs.cache
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\MediaEncoder.Domain.deps.json
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\MediaEncoder.Domain.dll
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\MediaEncoder.Domain.pdb
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\Commons.dll
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\DomainCommons.dll
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\Commons.pdb
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\bin\Debug\net6.0\DomainCommons.pdb
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEnc.7363D7F2.Up2Date
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.dll
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\refint\MediaEncoder.Domain.dll
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\MediaEncoder.Domain.pdb
+D:\Code\C#\EnglishLearningWebsite\MediaEncoder.Domain\obj\Debug\net6.0\ref\MediaEncoder.Domain.dll

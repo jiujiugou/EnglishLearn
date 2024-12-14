@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\EnglishLearningWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48F1A74-DCEB-47B2-B412-79228DD37C3A}|IdentityService.Domain\\IdentityService.Domain.csproj|d:\\code\\c#\\englishlearningwebsite\\identityservice.domain\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48F1A74-DCEB-47B2-B412-79228DD37C3A}|IdentityService.Domain\\IdentityService.Domain.csproj|solutionrelative:identityservice.domain\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48F1A74-DCEB-47B2-B412-79228DD37C3A}|IdentityService.Domain\\IdentityService.Domain.csproj|d:\\code\\c#\\englishlearningwebsite\\identityservice.domain\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48F1A74-DCEB-47B2-B412-79228DD37C3A}|IdentityService.Domain\\IdentityService.Domain.csproj|solutionrelative:identityservice.domain\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618F6149-58BF-4B42-8E9C-2FE4039B2EA4}|Listening.Infrastructure\\Listening.Infrastructure.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.infrastructure\\listeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618F6149-58BF-4B42-8E9C-2FE4039B2EA4}|Listening.Infrastructure\\Listening.Infrastructure.csproj|solutionrelative:listening.infrastructure\\listeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15F29C-7646-40DF-9A46-1F56874D0C7F}|Listening.Domain\\Listening.Domain.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.domain\\ilisteningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15F29C-7646-40DF-9A46-1F56874D0C7F}|Listening.Domain\\Listening.Domain.csproj|solutionrelative:listening.domain\\ilisteningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15F29C-7646-40DF-9A46-1F56874D0C7F}|Listening.Domain\\Listening.Domain.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.domain\\subtitles\\subtitleparserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15F29C-7646-40DF-9A46-1F56874D0C7F}|Listening.Domain\\Listening.Domain.csproj|solutionrelative:listening.domain\\subtitles\\subtitleparserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.main.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|solutionrelative:listening.main.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804F2217-D592-453D-A0F4-16B473E7CBC9}|Listening.Admin.WebAPI\\Listening.Admin.WebAPI.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.admin.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{804F2217-D592-453D-A0F4-16B473E7CBC9}|Listening.Admin.WebAPI\\Listening.Admin.WebAPI.csproj|solutionrelative:listening.admin.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618F6149-58BF-4B42-8E9C-2FE4039B2EA4}|Listening.Infrastructure\\Listening.Infrastructure.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.infrastructure\\listeningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618F6149-58BF-4B42-8E9C-2FE4039B2EA4}|Listening.Infrastructure\\Listening.Infrastructure.csproj|solutionrelative:listening.infrastructure\\listeningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618F6149-58BF-4B42-8E9C-2FE4039B2EA4}|Listening.Infrastructure\\Listening.Infrastructure.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.infrastructure\\moduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618F6149-58BF-4B42-8E9C-2FE4039B2EA4}|Listening.Infrastructure\\Listening.Infrastructure.csproj|solutionrelative:listening.infrastructure\\moduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.main.webapi\\controllers\\albums\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|solutionrelative:listening.main.webapi\\controllers\\albums\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.main.webapi\\controllers\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|solutionrelative:listening.main.webapi\\controllers\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|d:\\code\\c#\\englishlearningwebsite\\listening.main.webapi\\controllers\\episodes\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEC68E3-F025-49E4-B40E-7C20B45A0F59}|Listening.Main.WebAPI\\Listening.Main.WebAPI.csproj|solutionrelative:listening.main.webapi\\controllers\\episodes\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\IdentityService.Domain\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "IdentityService.Domain\\IEmailSender.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\IdentityService.Domain\\IEmailSender.cs",
+              "RelativeToolTip": "IdentityService.Domain\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:14:49.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityHelper.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\IdentityService.Domain\\IdentityHelper.cs",
+              "RelativeDocumentMoniker": "IdentityService.Domain\\IdentityHelper.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\IdentityService.Domain\\IdentityHelper.cs",
+              "RelativeToolTip": "IdentityService.Domain\\IdentityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:14:47.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListeningRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Domain\\IListeningRepository.cs",
+              "RelativeDocumentMoniker": "Listening.Domain\\IListeningRepository.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Domain\\IListeningRepository.cs",
+              "RelativeToolTip": "Listening.Domain\\IListeningRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:29:25.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListeningRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Infrastructure\\ListeningRepository.cs",
+              "RelativeDocumentMoniker": "Listening.Infrastructure\\ListeningRepository.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Infrastructure\\ListeningRepository.cs",
+              "RelativeToolTip": "Listening.Infrastructure\\ListeningRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:39.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuleInitializer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Infrastructure\\ModuleInitializer.cs",
+              "RelativeDocumentMoniker": "Listening.Infrastructure\\ModuleInitializer.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Infrastructure\\ModuleInitializer.cs",
+              "RelativeToolTip": "Listening.Infrastructure\\ModuleInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:34.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Controllers\\Albums\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Listening.Main.WebAPI\\Controllers\\Albums\\AlbumController.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Controllers\\Albums\\AlbumController.cs",
+              "RelativeToolTip": "Listening.Main.WebAPI\\Controllers\\Albums\\AlbumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:30.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Controllers\\Categories\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Listening.Main.WebAPI\\Controllers\\Categories\\CategoryController.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Controllers\\Categories\\CategoryController.cs",
+              "RelativeToolTip": "Listening.Main.WebAPI\\Controllers\\Categories\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Listening.Main.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Program.cs",
+              "RelativeToolTip": "Listening.Main.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:19.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubtitleParserFactory.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Domain\\Subtitles\\SubtitleParserFactory.cs",
+              "RelativeDocumentMoniker": "Listening.Domain\\Subtitles\\SubtitleParserFactory.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Domain\\Subtitles\\SubtitleParserFactory.cs",
+              "RelativeToolTip": "Listening.Domain\\Subtitles\\SubtitleParserFactory.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:08:05.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListeningDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Infrastructure\\ListeningDbContext.cs",
+              "RelativeDocumentMoniker": "Listening.Infrastructure\\ListeningDbContext.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Infrastructure\\ListeningDbContext.cs",
+              "RelativeToolTip": "Listening.Infrastructure\\ListeningDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:54.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EpisodeController.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Controllers\\Episodes\\EpisodeController.cs",
+              "RelativeDocumentMoniker": "Listening.Main.WebAPI\\Controllers\\Episodes\\EpisodeController.cs",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Main.WebAPI\\Controllers\\Episodes\\EpisodeController.cs",
+              "RelativeToolTip": "Listening.Main.WebAPI\\Controllers\\Episodes\\EpisodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:23.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Admin.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Listening.Admin.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\C#\\EnglishLearningWebsite\\Listening.Admin.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Listening.Admin.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T03:10:21.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

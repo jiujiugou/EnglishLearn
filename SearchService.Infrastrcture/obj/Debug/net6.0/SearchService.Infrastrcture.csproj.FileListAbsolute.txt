@@ -1,0 +1,17 @@
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\SearchService.Infrastrcture.deps.json
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\SearchService.Infrastrcture.dll
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\SearchService.Infrastrcture.pdb
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\Commons.dll
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\SearchService.Domain.dll
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\Commons.pdb
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\bin\Debug\net6.0\SearchService.Domain.pdb
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.csproj.AssemblyReference.cache
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.AssemblyInfoInputs.cache
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.AssemblyInfo.cs
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.csproj.CoreCompileInputs.cache
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchSe.CF93B951.Up2Date
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.dll
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\refint\SearchService.Infrastrcture.dll
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\SearchService.Infrastrcture.pdb
+D:\Code\C#\EnglishLearningWebsite\SearchService.Infrastrcture\obj\Debug\net6.0\ref\SearchService.Infrastrcture.dll

@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "SearchService.WebAPI.Controllers.SearchController",
+    "Method": "ReIndexAll",
+    "RelativePath": "Search/ReIndexAll",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SearchService.WebAPI.Controllers.SearchController",
+    "Method": "SearchEpisodes",
+    "RelativePath": "Search/SearchEpisodes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SearchService.Domain.SearchEpisodesResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+6npi+2kLvJGn3siuW8lZqGoEZVcIeSkubNOG2FRN2E=",
+  "Source": "FileService.WebAPI",
+  "BasePath": "_content/FileService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

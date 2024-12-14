@@ -1,0 +1,17 @@
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\DomainCommons.dll
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\DomainCommons.pdb
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastr.15EFFBFE.Up2Date
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\Commons.dll
+D:\Code\C#\EnglishLearningWebsite\Infrastructure\bin\Debug\net6.0\Commons.pdb

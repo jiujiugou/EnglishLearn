@@ -1,0 +1,12 @@
+D:\Code\C#\EnglishLearningWebsite\EventBus\bin\Debug\net6.0\EventBus.deps.json
+D:\Code\C#\EnglishLearningWebsite\EventBus\bin\Debug\net6.0\EventBus.dll
+D:\Code\C#\EnglishLearningWebsite\EventBus\bin\Debug\net6.0\EventBus.pdb
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.csproj.AssemblyReference.cache
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.AssemblyInfoInputs.cache
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.AssemblyInfo.cs
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.csproj.CoreCompileInputs.cache
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.dll
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\refint\EventBus.dll
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\EventBus.pdb
+D:\Code\C#\EnglishLearningWebsite\EventBus\obj\Debug\net6.0\ref\EventBus.dll
